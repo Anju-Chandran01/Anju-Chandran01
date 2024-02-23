@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anju Chandran</h1>
 <h3 align="center">A passionate Software Engineer - QA from India</h3>
+
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+
 - 🔭 I’m currently working on **Mantra Labs Pvt Ltd.**
 
 - 🌱 I’m currently learning **JMeter and ISTQB**
